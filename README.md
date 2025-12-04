@@ -6,7 +6,7 @@ It uses two custom trained machine learning models combined with computer vision
 
 This project is currently in the MVP stage, and I am actively working on creating a new fully custom Solar System dataset. The current dataset I used for the Solar System classifier “Planets and Moons Dataset – AI in Space” by EMİRHAN BULUT consists mostly of synthetic 3D renderings and does not fully encompass the breadth of celestial objects in the Solar System that I believe are worth identifying (such as the Galilean moons, Titan, Ceres, Uranus’s major moons, Triton, and others).
 
-### Function 1: Dual-model 
+### Function 1: Dual-Model Classification Pipeline
 AstroLens uses two models in a heirarchical pipeline:
 
 #### Model 1: Solar System Classifier
