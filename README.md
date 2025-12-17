@@ -46,7 +46,6 @@ Currently, the Model I'm using in the MVP product is from EMİRHAN BULUT, but as
 - Iapetus (Saturn)
 - Tethys (Saturn)
 - Mimas (Saturn)
-- Rhea (Saturn)
 - Dione (Saturn)
 - Titania (Uranus)
 - Ariel (Uranus)
